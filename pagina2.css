@@ -1,0 +1,103 @@
+ .caja1{
+    background-color:#F2D7FF;
+    display: flex;
+    flex-direction: row;
+    align-items: center;
+    justify-content: space-between; 
+    border-radius: 20px; 
+  
+
+    
+    
+ }
+ .icono{
+    width: 50px;
+    height: 50px; 
+
+
+}
+
+
+.buscador{
+    width: 200px;
+    height: 20px;
+    display: flex;
+    
+} 
+
+.boton1{
+    background-color: transparent;
+    border: 0;
+}
+.canciones2{
+    flex-direction: row;
+    display: flex; 
+    
+ } 
+
+.caja2{ 
+    background-color: #D1C9FF; 
+    border-radius: 20px;
+
+
+
+ }
+.flaca{ 
+    width: 100px;
+    height: 100px;
+} 
+
+
+.la noche{ 
+    width: 100px;
+    height: 100px;
+}
+
+.los panchos{ 
+    width: 100px;
+    height: 100px;
+} 
+
+.input1{
+    border-radius: 20px ; 
+    margin: 0%; 
+    width: 200px;
+    height: 20px;
+}  
+
+body{
+    background-color: black;
+    
+} 
+h1{ 
+    background-color: white; 
+    border-radius: 10px;
+    
+} 
+
+.texto{ 
+    font-family:cursive;
+
+} 
+p{ 
+    font-family: cursive;
+    background-color: white; 
+    padding: 10px; 
+    border-radius: 25px;
+    
+} 
+p:hover{ 
+    background-color: burlywood;
+}
+.caja3{ 
+    background-color: darksalmon;
+} 
+.salsa{ 
+    background-color: cornflowerblue;
+}  
+.ajustes{ 
+    width: 50px;
+    height: 50px;
+} 
+
+
